@@ -1,0 +1,29 @@
+{
+  "name": "metalsmith-layouts-add-extension",
+  "version": "1.0.0",
+  "description": "A Metalsmith plugin that appends any given extension to the layout property of any post that does not already have an extension.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlansCodeLog/metalsmith-layouts-add-extension.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "plugin",
+    "metalsmith-layouts"
+  ],
+  "author": "Alan North",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlansCodeLog/metalsmith-layouts-add-extension/issues"
+  },
+  "homepage": "https://github.com/AlansCodeLog/metalsmith-layouts-add-extension#readme",
+  "devDependencies": {
+    "metalsmith": "^2.3.0",
+    "mocha": "^3.3.0",
+    "should": "^11.2.1"
+  }
+}
